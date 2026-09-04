@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 # =========================================
 # GESTIÓN DE RESPALDOS
@@ -315,4 +314,3 @@ do
             ;;
     esac
 done
-```
